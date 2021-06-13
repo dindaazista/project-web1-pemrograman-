@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(to right, #00FA9A,#9ACD32,#00FF7F);
+   }
+   .wrap{
+    width: 40%;
+    margin: auto;
+    color: white;
+    background-color: bisque;
+    background:#556b2f;
+   }
+   .container{
+       padding: 5px;
+   }
+   h1{
+       text-align: center;
+   }
+   table{
+       margin:auto;
+       padding-bottom: 5px;
+   }
+   table td{
+       padding: 5px;
+   }
+   button{
+       width: 50px;
+       font-family: sans-serif;
+       height: 30px;
+       background-color: rgba(204, 166, 166, 0.4) 0B;
+       border-radius: 7pxB8 86 0B;
+   }
+   
